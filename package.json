@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/mackmae/webserver/issues"
   },
-  "homepage": "https://github.com/mackmae/webserver#readme"
+  "homepage": "https://github.com/mackmae/webserver#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
